@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chuygbg/IMEFU.git/issues"
   },
-  "homepage": "https://github.com/chuygbg/IMEFU.git#readme"
+  "homepage": "https://github.com/chuygbg/IMEFU.git#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
