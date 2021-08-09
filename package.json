@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chuygbg/TorneoDeDebate.git"
+    "url": "git+https://github.com/chuygbg/IMEFU.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chuygbg/TorneoDeDebate/issues"
+    "url": "https://github.com/chuygbg/IMEFU.git/issues"
   },
-  "homepage": "https://github.com/chuygbg/TorneoDeDebate#readme"
+  "homepage": "https://github.com/chuygbg/IMEFU.git#readme"
 }
