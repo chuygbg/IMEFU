@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#RegionSelect{
+  margin-top: 1em;
+  width: 60%;
+  height: 30px;
+}
